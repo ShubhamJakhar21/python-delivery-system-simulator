@@ -1,0 +1,2 @@
+case,best_agent,packages,total_distance,efficiency,delay_minutes
+test_case_1,A1,4,75.83,18.96,54
